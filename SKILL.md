@@ -60,6 +60,7 @@ Add sponsor logos at the bottom:
 Rules:
 - Use sponsor logos exactly as provided.
 - Do not redesign, redraw, recolour, or modify sponsor logos.
+- Do **not** invent or assume sponsor logos.
 - Place sponsors inside a stylish white sponsor strip/box at the bottom.
 - The sponsor strip should match the overall poster design and not look like a plain rectangle.
 
